@@ -1,4 +1,5 @@
 🎬 IMDB Movie Analysis – Python Case Study
+
 📌 Project Overview
 This project is an end-to-end exploratory data analysis (EDA) case study performed on an IMDB movies dataset using Python and Pandas. The goal is to uncover trends, patterns, and insights related to movie genres, ratings, budgets, revenues, and release years.
 
